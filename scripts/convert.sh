@@ -56,3 +56,5 @@ for i in {0..5}; do
 done
 
 echo "</manifest>" >> $manifest_path
+
+# 这里不能再有任何 add_lunch_combo 语句！
